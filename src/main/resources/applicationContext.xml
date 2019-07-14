@@ -6,13 +6,16 @@
 	xmlns:mvc="http://www.springframework.org/schema/mvc"
 	xmlns:aop="http://www.springframework.org/schema/aop"
 	xmlns:tx="http://www.springframework.org/schema/tx"
-	xsi:schemaLocation="
-		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.1.xsd
+	xsi:schemaLocation="http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.1.xsd
 		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd
 		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.1.xsd
 		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.1.xsd
 		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.1.xsd">
-	
+	<!-- 关于xsd的验证问题，eclipse中验证xsd文件缓慢，xml文件容易报错
+		此时如果引入本地xsd文件需要注意不要使用中文路径，且key中存放
+		http://www.springframework.org/schema/context/spring-context-4.1.xsd
+		格式值
+	 -->
 	<!-- 对象的创建和属性注入-->
 	
 	<!-- 简易的对象创建 -->
@@ -92,7 +95,6 @@
 		http://www.springframework.org/schema/context 
 		http://www.springframework.org/schema/context/spring-context-4.1.xsd
 	 -->
-	
 	<context:annotation-config />
 	<!-- 配置注解的扫描包，要配置多个包可以用逗号隔开 -->
 	<context:component-scan base-package="cn.mldn,cn.test"></context:component-scan>

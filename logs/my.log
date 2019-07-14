@@ -825,3 +825,39 @@ org.xml.sax.SAXParseException; lineNumber: 14; columnNumber: 74; SchemaLocation:
 2019-07-14 17:08:26,452 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - arroundInvoke返回的结果=false
 2019-07-14 17:08:26,452 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
 2019-07-14 17:08:26,452 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-15 00:54:34,660 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Mon Jul 15 00:54:34 CST 2019]; root of context hierarchy
+2019-07-15 00:54:34,767 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-15 00:54:35,302 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-15 00:54:35,973 INFO [cn.mldn.test.TestsBeans] - TestBean [id=123, s=hello]
+2019-07-15 00:54:48,063 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Mon Jul 15 00:54:48 CST 2019]; root of context hierarchy
+2019-07-15 00:54:48,131 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-15 00:54:48,561 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-15 00:54:49,251 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke接收到的参数=[123]
+2019-07-15 00:54:49,251 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-15 00:54:49,265 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-15 00:54:49,266 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - arroundInvoke接收到的参数=[arroundInvoke自己定义的参数]
+2019-07-15 00:54:49,266 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-15 00:54:49,266 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-15 00:54:49,266 INFO [cn.mldn.service.impl.AnnotationAOPServiceImpl] - 业务调用，mid=arroundInvoke自己定义的参数
+2019-07-15 00:54:49,266 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - arroundInvoke返回的结果=false
+2019-07-15 00:54:49,267 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-15 00:54:49,267 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-15 00:54:49,267 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke返回的结果=true
+2019-07-15 00:54:49,267 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-15 00:54:49,267 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-15 02:32:24,169 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Mon Jul 15 02:32:24 CST 2019]; root of context hierarchy
+2019-07-15 02:32:24,308 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-15 02:32:24,897 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-15 02:32:25,919 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke接收到的参数=[123]
+2019-07-15 02:32:25,920 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-15 02:32:25,928 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-15 02:32:25,929 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - arroundInvoke接收到的参数=[arroundInvoke自己定义的参数]
+2019-07-15 02:32:25,929 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-15 02:32:25,929 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-15 02:32:25,929 INFO [cn.mldn.service.impl.AnnotationAOPServiceImpl] - 业务调用，mid=arroundInvoke自己定义的参数
+2019-07-15 02:32:25,929 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - arroundInvoke返回的结果=false
+2019-07-15 02:32:25,930 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-15 02:32:25,930 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-15 02:32:25,930 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke返回的结果=true
+2019-07-15 02:32:25,930 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-15 02:32:25,930 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
