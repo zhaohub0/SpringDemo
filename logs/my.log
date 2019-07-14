@@ -1,0 +1,827 @@
+2019-07-09 13:59:26,685 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6bf2d08e: startup date [Tue Jul 09 13:59:26 CST 2019]; root of context hierarchy
+2019-07-09 13:59:26,775 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 13:59:54,060 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3796751b: startup date [Tue Jul 09 13:59:54 CST 2019]; root of context hierarchy
+2019-07-09 13:59:54,153 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 13:59:54,360 INFO [cn.mldn.test.TestMessageService] - www.mldn.cn
+2019-07-09 14:48:58,464 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Tue Jul 09 14:48:58 CST 2019]; root of context hierarchy
+2019-07-09 14:48:58,572 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 14:48:58,957 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 14:49:43,877 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Tue Jul 09 14:49:43 CST 2019]; root of context hierarchy
+2019-07-09 14:49:43,953 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 14:49:44,211 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:00:26,210 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Tue Jul 09 15:00:26 CST 2019]; root of context hierarchy
+2019-07-09 15:00:26,306 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:00:26,624 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:00:26,625 INFO [cn.mldn.vo.Dept] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 15:09:59,535 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Tue Jul 09 15:09:59 CST 2019]; root of context hierarchy
+2019-07-09 15:09:59,634 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:09:59,945 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:09:59,946 INFO [cn.mldn.vo.Dept] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 15:10:24,478 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Tue Jul 09 15:10:24 CST 2019]; root of context hierarchy
+2019-07-09 15:10:24,554 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:10:24,835 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:10:24,836 INFO [cn.mldn.vo.Dept] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 15:10:46,113 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@48793bef: startup date [Tue Jul 09 15:10:46 CST 2019]; root of context hierarchy
+2019-07-09 15:10:46,319 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:10:47,040 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:10:47,044 INFO [cn.mldn.vo.Dept] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 15:11:02,626 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Tue Jul 09 15:11:02 CST 2019]; root of context hierarchy
+2019-07-09 15:11:02,715 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:11:03,037 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:11:03,038 INFO [cn.mldn.vo.Dept] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 15:11:08,860 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@48793bef: startup date [Tue Jul 09 15:11:08 CST 2019]; root of context hierarchy
+2019-07-09 15:11:09,073 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:11:09,667 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:11:09,670 INFO [cn.mldn.vo.Dept] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 15:11:51,545 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4445629: startup date [Tue Jul 09 15:11:51 CST 2019]; root of context hierarchy
+2019-07-09 15:11:51,676 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:11:52,137 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:11:52,140 INFO [cn.mldn.vo.Dept] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 15:12:03,118 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4445629: startup date [Tue Jul 09 15:12:03 CST 2019]; root of context hierarchy
+2019-07-09 15:12:03,238 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:12:03,694 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:13:10,248 INFO [cn.mldn.vo.Dept] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 15:14:07,132 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Tue Jul 09 15:14:07 CST 2019]; root of context hierarchy
+2019-07-09 15:14:07,214 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:14:07,472 INFO [cn.mldn.vo.TestBean] - TestBean [id=123, s=hello]
+2019-07-09 15:14:07,473 INFO [cn.mldn.vo.Dept] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 15:20:17,694 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Tue Jul 09 15:20:17 CST 2019]; root of context hierarchy
+2019-07-09 15:20:17,777 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 15:20:18,039 INFO [cn.mldn.test.Tests] - Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]
+2019-07-09 15:20:18,043 INFO [cn.mldn.test.Tests] - TestBean [id=123, s=hello]
+2019-07-09 15:20:18,043 INFO [cn.mldn.test.Tests] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 17:25:50,424 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Tue Jul 09 17:25:50 CST 2019]; root of context hierarchy
+2019-07-09 17:25:50,544 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 17:25:51,076 INFO [cn.mldn.test.Tests] - Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]
+2019-07-09 17:25:51,140 INFO [cn.mldn.test.Tests] - Dept [deptno=20, dname=市场部, loc=武汉, groups=null]
+2019-07-09 17:25:51,140 INFO [cn.mldn.test.Tests] - TestBean [id=123, s=hello]
+2019-07-09 17:25:51,140 INFO [cn.mldn.test.Tests] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-09 17:42:38,731 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Tue Jul 09 17:42:38 CST 2019]; root of context hierarchy
+2019-07-09 17:42:38,815 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 17:42:39,131 INFO [cn.mldn.test.Tests] - Dept [deptno=20, dname=市场部, loc=武汉, groups=null]
+2019-07-09 17:43:11,229 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Tue Jul 09 17:43:11 CST 2019]; root of context hierarchy
+2019-07-09 17:43:11,306 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 17:43:11,603 INFO [cn.mldn.test.Tests] - Dept [deptno=20, dname=市场部, loc=武汉, groups=null]
+2019-07-09 17:49:34,134 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Tue Jul 09 17:49:34 CST 2019]; root of context hierarchy
+2019-07-09 17:49:34,216 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 17:49:34,557 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'emp1' defined in class path resource [applicationContext.xml]: Initialization of bean failed; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert property value of type [cn.mldn.vo.Emp] to required type [cn.mldn.vo.Dept] for property 'dept'; nested exception is java.lang.IllegalStateException: Cannot convert value of type [cn.mldn.vo.Emp] to required type [cn.mldn.vo.Dept] for property 'dept': no matching editors or conversion strategy found
+2019-07-09 17:50:25,348 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Tue Jul 09 17:50:25 CST 2019]; root of context hierarchy
+2019-07-09 17:50:25,426 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 17:50:25,702 INFO [cn.mldn.test.Tests] - Emp [empno=2, ename=李四, sal=1000.23, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]
+2019-07-09 19:42:29,967 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Tue Jul 09 19:42:29 CST 2019]; root of context hierarchy
+2019-07-09 19:42:30,044 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 19:42:30,600 INFO [cn.mldn.test.Tests] - Bean01 [lis=[list第一个字符串, list第二个字符串], sets=[set第一个字符串, set第二个字符串], emps=[Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]], Emp [empno=3, ename=张三aa, sal=null, dept=null]], maps={第一个map=Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]], 第二个map=Emp [empno=2, ename=李四, sal=1000.23, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]}, prop=null]
+2019-07-09 19:47:18,918 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Tue Jul 09 19:47:18 CST 2019]; root of context hierarchy
+2019-07-09 19:47:18,999 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-09 19:47:19,337 INFO [cn.mldn.test.Tests] - Bean01 [lis=[list第一个字符串, list第二个字符串], sets=[set第一个字符串, set第二个字符串], emps=[Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]], Emp [empno=3, ename=张三aa, sal=null, dept=null]], maps={第一个map=Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]], 第二个map=Emp [empno=2, ename=李四, sal=1000.23, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]}, props={110=你好, 120=世界}]
+2019-07-10 16:05:26,574 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:05:26 CST 2019]; root of context hierarchy
+2019-07-10 16:05:26,645 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:05:27,211 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:05:27,526 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:05:49,301 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Wed Jul 10 16:05:49 CST 2019]; root of context hierarchy
+2019-07-10 16:05:49,374 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:05:49,719 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:05:49,855 INFO [cn.mldn.test.Tests] - Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]
+2019-07-10 16:05:49,861 INFO [cn.mldn.test.Tests] - TestBean [id=123, s=hello]
+2019-07-10 16:05:49,861 INFO [cn.mldn.test.Tests] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-10 16:05:49,862 INFO [cn.mldn.test.Tests] - Emp [empno=2, ename=李四, sal=1000.23, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]
+2019-07-10 16:05:49,968 INFO [cn.mldn.test.Tests] - Bean01 [lis=[list第一个字符串, list第二个字符串], sets=[set第一个字符串, set第二个字符串], emps=[Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]], Emp [empno=3, ename=张三aa, sal=null, dept=null]], maps={第一个map=Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]], 第二个map=Emp [empno=2, ename=李四, sal=1000.23, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]}, props={110=你好, 120=世界}]
+2019-07-10 16:07:34,682 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1bc6a36e: startup date [Wed Jul 10 16:07:34 CST 2019]; root of context hierarchy
+2019-07-10 16:07:34,746 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:07:35,081 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:07:35,210 INFO [cn.mldn.test.Tests] - Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]
+2019-07-10 16:07:35,214 INFO [cn.mldn.test.Tests] - TestBean [id=123, s=hello]
+2019-07-10 16:07:35,215 INFO [cn.mldn.test.Tests] - Dept [deptno=10, dname=开发部, loc=北京, groups=null]
+2019-07-10 16:07:35,215 INFO [cn.mldn.test.Tests] - Emp [empno=2, ename=李四, sal=1000.23, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]
+2019-07-10 16:07:35,216 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:07:35,217 INFO [cn.mldn.test.Tests] - Bean01 [lis=[list第一个字符串, list第二个字符串], sets=[set第一个字符串, set第二个字符串], emps=[Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]], Emp [empno=3, ename=张三aa, sal=null, dept=null]], maps={第一个map=Emp [empno=1, ename=张三, sal=800.01, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]], 第二个map=Emp [empno=2, ename=李四, sal=1000.23, dept=Dept [deptno=10, dname=开发部, loc=北京, groups=null]]}, props={110=你好, 120=世界}]
+2019-07-10 16:07:50,570 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:07:50 CST 2019]; root of context hierarchy
+2019-07-10 16:07:50,645 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:07:50,999 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:08:35,506 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:08:35 CST 2019]; root of context hierarchy
+2019-07-10 16:08:35,579 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:08:35,915 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:08:36,046 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:09:08,654 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:09:08 CST 2019]; root of context hierarchy
+2019-07-10 16:09:08,729 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:09:09,067 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:16:26,029 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:16:26 CST 2019]; root of context hierarchy
+2019-07-10 16:16:26,113 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:16:26,440 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:18:17,175 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:18:17 CST 2019]; root of context hierarchy
+2019-07-10 16:18:17,236 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:18:17,572 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:18:17,709 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:18:40,752 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:18:40 CST 2019]; root of context hierarchy
+2019-07-10 16:18:40,820 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:18:41,169 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:18:41,304 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:19:52,807 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:19:52 CST 2019]; root of context hierarchy
+2019-07-10 16:19:52,881 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:19:53,227 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:19:53,356 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:21:12,610 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:21:12 CST 2019]; root of context hierarchy
+2019-07-10 16:21:12,688 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:21:13,040 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:21:24,386 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:21:24 CST 2019]; root of context hierarchy
+2019-07-10 16:21:24,452 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:21:24,778 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:21:24,898 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:29:18,424 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:29:18 CST 2019]; root of context hierarchy
+2019-07-10 16:29:18,497 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:29:18,839 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:29:18,972 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'annotationServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [cn.mldn.dao.IAnnotationDAO]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2019-07-10 16:29:45,867 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:29:45 CST 2019]; root of context hierarchy
+2019-07-10 16:29:45,934 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:29:46,279 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:29:46,405 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:38:06,313 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:38:06 CST 2019]; root of context hierarchy
+2019-07-10 16:38:06,381 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:38:06,724 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:38:21,464 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:38:21 CST 2019]; root of context hierarchy
+2019-07-10 16:38:21,526 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:38:21,877 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:38:22,002 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:39:07,152 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:39:07 CST 2019]; root of context hierarchy
+2019-07-10 16:39:07,227 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:39:07,563 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:41:13,093 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:41:13 CST 2019]; root of context hierarchy
+2019-07-10 16:41:13,179 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:41:13,563 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:41:29,928 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:41:29 CST 2019]; root of context hierarchy
+2019-07-10 16:41:30,000 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:41:30,347 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:41:30,473 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:42:10,087 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:42:10 CST 2019]; root of context hierarchy
+2019-07-10 16:42:10,165 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:42:10,509 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:42:10,639 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:42:22,965 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:42:22 CST 2019]; root of context hierarchy
+2019-07-10 16:42:23,039 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:42:23,376 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:42:32,507 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:42:32 CST 2019]; root of context hierarchy
+2019-07-10 16:42:32,566 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:42:32,916 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:42:33,044 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:43:10,138 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:43:10 CST 2019]; root of context hierarchy
+2019-07-10 16:43:10,228 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:43:10,572 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:43:10,696 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:43:22,804 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:43:22 CST 2019]; root of context hierarchy
+2019-07-10 16:43:22,882 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:43:23,223 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:43:23,347 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:43:53,641 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:43:53 CST 2019]; root of context hierarchy
+2019-07-10 16:43:53,725 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:43:54,071 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:44:36,962 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:44:36 CST 2019]; root of context hierarchy
+2019-07-10 16:44:37,040 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:44:37,389 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:46:06,085 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:46:06 CST 2019]; root of context hierarchy
+2019-07-10 16:46:06,163 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:46:06,514 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:46:51,977 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:46:51 CST 2019]; root of context hierarchy
+2019-07-10 16:46:52,048 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:46:52,391 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:47:31,794 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:47:31 CST 2019]; root of context hierarchy
+2019-07-10 16:47:31,874 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:47:32,253 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:50:26,477 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:50:26 CST 2019]; root of context hierarchy
+2019-07-10 16:50:26,549 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:50:26,892 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:50:38,374 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:50:38 CST 2019]; root of context hierarchy
+2019-07-10 16:50:38,445 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:50:38,774 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:50:38,896 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 16:52:48,754 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:52:48 CST 2019]; root of context hierarchy
+2019-07-10 16:52:48,825 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:52:49,182 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:54:25,117 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:54:25 CST 2019]; root of context hierarchy
+2019-07-10 16:54:25,193 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:54:25,558 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:55:39,124 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:55:39 CST 2019]; root of context hierarchy
+2019-07-10 16:55:39,196 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:55:39,562 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:56:14,713 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 16:56:14 CST 2019]; root of context hierarchy
+2019-07-10 16:56:14,784 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 16:56:15,142 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 16:56:15,268 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:00:02,599 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:00:02 CST 2019]; root of context hierarchy
+2019-07-10 17:00:02,677 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:00:03,042 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:00:58,886 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:00:58 CST 2019]; root of context hierarchy
+2019-07-10 17:00:58,955 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:00:59,330 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:01:12,684 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:01:12 CST 2019]; root of context hierarchy
+2019-07-10 17:01:12,764 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:01:13,125 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:01:24,504 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:01:24 CST 2019]; root of context hierarchy
+2019-07-10 17:01:24,582 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:01:24,935 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:03:09,194 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:03:09 CST 2019]; root of context hierarchy
+2019-07-10 17:03:09,270 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:03:09,629 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:04:40,163 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:04:40 CST 2019]; root of context hierarchy
+2019-07-10 17:04:40,242 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:04:40,618 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:05:22,750 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:05:22 CST 2019]; root of context hierarchy
+2019-07-10 17:05:22,835 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:05:23,216 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:06:11,212 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:06:11 CST 2019]; root of context hierarchy
+2019-07-10 17:06:11,284 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:06:11,647 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:06:43,209 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:06:43 CST 2019]; root of context hierarchy
+2019-07-10 17:06:43,286 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:06:43,633 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:06:43,770 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:07:03,665 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:07:03 CST 2019]; root of context hierarchy
+2019-07-10 17:07:03,750 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:07:04,141 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:07:20,282 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:07:20 CST 2019]; root of context hierarchy
+2019-07-10 17:07:20,360 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:07:20,745 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:07:26,300 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:07:26 CST 2019]; root of context hierarchy
+2019-07-10 17:07:26,374 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:07:26,730 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:07:26,874 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:07:44,044 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:07:44 CST 2019]; root of context hierarchy
+2019-07-10 17:07:44,119 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:07:44,470 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:07:44,603 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:07:56,559 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:07:56 CST 2019]; root of context hierarchy
+2019-07-10 17:07:56,630 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:07:56,970 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:07:57,101 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:08:09,751 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:08:09 CST 2019]; root of context hierarchy
+2019-07-10 17:08:09,818 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:08:10,163 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:08:10,291 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:08:18,674 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:08:18 CST 2019]; root of context hierarchy
+2019-07-10 17:08:18,747 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:08:19,096 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:08:19,227 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:08:41,329 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:08:41 CST 2019]; root of context hierarchy
+2019-07-10 17:08:41,406 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:08:41,753 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:08:49,025 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:08:49 CST 2019]; root of context hierarchy
+2019-07-10 17:08:49,094 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:08:49,450 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:08:49,589 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:09:12,652 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:09:12 CST 2019]; root of context hierarchy
+2019-07-10 17:09:12,726 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:09:13,081 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:09:23,272 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:09:23 CST 2019]; root of context hierarchy
+2019-07-10 17:09:23,352 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:09:23,703 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:09:23,841 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:15:27,350 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:15:27 CST 2019]; root of context hierarchy
+2019-07-10 17:15:27,429 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:15:27,787 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:15:27,921 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:15:59,217 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:15:59 CST 2019]; root of context hierarchy
+2019-07-10 17:15:59,288 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:15:59,630 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:15:59,758 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:24:08,253 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:24:08 CST 2019]; root of context hierarchy
+2019-07-10 17:24:08,337 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:24:08,693 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:24:39,898 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:24:39 CST 2019]; root of context hierarchy
+2019-07-10 17:24:39,979 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:24:40,354 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:24:40,481 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:32:21,945 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:32:21 CST 2019]; root of context hierarchy
+2019-07-10 17:32:22,026 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:32:22,367 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:32:22,488 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:34:13,864 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:34:13 CST 2019]; root of context hierarchy
+2019-07-10 17:34:14,063 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:34:14,725 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:34:15,016 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:34:29,472 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:34:29 CST 2019]; root of context hierarchy
+2019-07-10 17:34:29,559 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:34:29,926 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:34:30,052 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-10 17:34:35,626 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Wed Jul 10 17:34:35 CST 2019]; root of context hierarchy
+2019-07-10 17:34:35,702 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-10 17:34:36,094 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-10 17:34:36,224 INFO [cn.mldn.dao.impl.AnnotationDAOImpl] - Dept [deptno=10, dname=张三, loc=null, groups=null]
+2019-07-11 23:56:23,905 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Thu Jul 11 23:56:23 CST 2019]; root of context hierarchy
+2019-07-11 23:56:24,192 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-11 23:56:25,199 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-11 23:56:43,850 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Thu Jul 11 23:56:43 CST 2019]; root of context hierarchy
+2019-07-11 23:56:43,919 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-11 23:56:44,263 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-11 23:57:16,306 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Thu Jul 11 23:57:16 CST 2019]; root of context hierarchy
+2019-07-11 23:57:16,379 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-11 23:57:16,741 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-11 23:57:52,112 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Thu Jul 11 23:57:52 CST 2019]; root of context hierarchy
+2019-07-11 23:57:52,206 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-11 23:57:52,678 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-11 23:57:52,827 INFO [cn.mldn.test.TestResource] - 一段测试字符串
+2019-07-11 23:58:05,064 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Thu Jul 11 23:58:05 CST 2019]; root of context hierarchy
+2019-07-11 23:58:05,153 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-11 23:58:05,572 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-11 23:58:05,727 INFO [cn.mldn.test.TestResource] - 一段测试字符串
+2019-07-11 23:58:40,023 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Thu Jul 11 23:58:40 CST 2019]; root of context hierarchy
+2019-07-11 23:58:40,110 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-11 23:58:40,573 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-11 23:58:40,741 INFO [cn.mldn.test.TestResource] - 一段测试字符串
+2019-07-12 00:03:54,167 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@436c81a3: startup date [Fri Jul 12 00:03:54 CST 2019]; root of context hierarchy
+2019-07-12 00:03:54,454 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:03:55,410 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:03:55,789 INFO [cn.mldn.test.TestResource] - ���� ��� ��
+2019-07-12 00:04:29,591 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:04:29 CST 2019]; root of context hierarchy
+2019-07-12 00:04:29,663 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:04:30,028 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:04:30,157 INFO [cn.mldn.test.TestResource] - ���� ��� ��
+2019-07-12 00:05:58,770 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:05:58 CST 2019]; root of context hierarchy
+2019-07-12 00:05:58,848 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:05:59,203 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:05:59,334 INFO [cn.mldn.test.TestResource] - ���� ��� ��aa
+2019-07-12 00:10:47,004 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:10:46 CST 2019]; root of context hierarchy
+2019-07-12 00:10:47,099 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:10:47,508 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:10:47,669 INFO [cn.mldn.test.TestResource] - ﻿你好，世界aa
+2019-07-12 00:12:46,092 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:12:46 CST 2019]; root of context hierarchy
+2019-07-12 00:12:46,165 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:12:46,545 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:12:46,687 INFO [cn.mldn.test.TestResource] - # For JBoss: Avoid to setup Log4J outside $JBOSS_HOME/server/default/deploy/log4j.xml!
+2019-07-12 00:12:46,688 INFO [cn.mldn.test.TestResource] - # For all other servers: Comment out the Log4J listener in web.xml to activate Log4J.
+2019-07-12 00:12:46,688 INFO [cn.mldn.test.TestResource] - log4j.rootLogger=INFO, stdout, logfile
+2019-07-12 00:12:46,688 INFO [cn.mldn.test.TestResource] - 
+2019-07-12 00:12:46,689 INFO [cn.mldn.test.TestResource] - log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+2019-07-12 00:12:46,689 INFO [cn.mldn.test.TestResource] - log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+2019-07-12 00:12:46,689 INFO [cn.mldn.test.TestResource] - log4j.appender.stdout.layout.ConversionPattern=%d %p [%c] - %m%n
+2019-07-12 00:12:46,689 INFO [cn.mldn.test.TestResource] - 
+2019-07-12 00:12:46,689 INFO [cn.mldn.test.TestResource] - log4j.logger.cn.mldn.amr.mapping=TRACE
+2019-07-12 00:12:46,690 INFO [cn.mldn.test.TestResource] - 
+2019-07-12 00:12:46,690 INFO [cn.mldn.test.TestResource] - log4j.appender.logfile=org.apache.log4j.RollingFileAppender
+2019-07-12 00:12:46,690 INFO [cn.mldn.test.TestResource] - log4j.appender.logfile.File=logs/my.log
+2019-07-12 00:12:46,690 INFO [cn.mldn.test.TestResource] - log4j.appender.logfile.MaxFileSize=512KB
+2019-07-12 00:12:46,690 INFO [cn.mldn.test.TestResource] - # Keep three backup files.
+2019-07-12 00:12:46,690 INFO [cn.mldn.test.TestResource] - log4j.appender.logfile.MaxBackupIndex=3
+2019-07-12 00:12:46,690 INFO [cn.mldn.test.TestResource] - # Pattern to output: date priority [category] - message
+2019-07-12 00:12:46,690 INFO [cn.mldn.test.TestResource] - log4j.appender.logfile.layout=org.apache.log4j.PatternLayout
+2019-07-12 00:12:46,691 INFO [cn.mldn.test.TestResource] - log4j.appender.logfile.layout.ConversionPattern=%d %p [%c] - %m%n
+2019-07-12 00:13:18,126 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:13:18 CST 2019]; root of context hierarchy
+2019-07-12 00:13:18,202 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:13:18,607 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:13:18,758 INFO [cn.mldn.test.TestResource] - <?xml version="1.0" encoding="UTF-8"?>
+2019-07-12 00:13:18,759 INFO [cn.mldn.test.TestResource] - <beans xmlns="http://www.springframework.org/schema/beans"
+2019-07-12 00:13:18,759 INFO [cn.mldn.test.TestResource] - 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+2019-07-12 00:13:18,759 INFO [cn.mldn.test.TestResource] - 	xmlns:p="http://www.springframework.org/schema/p"
+2019-07-12 00:13:18,759 INFO [cn.mldn.test.TestResource] - 	xmlns:context="http://www.springframework.org/schema/context"
+2019-07-12 00:13:18,760 INFO [cn.mldn.test.TestResource] - 	xmlns:mvc="http://www.springframework.org/schema/mvc"
+2019-07-12 00:13:18,760 INFO [cn.mldn.test.TestResource] - 	xmlns:aop="http://www.springframework.org/schema/aop"
+2019-07-12 00:13:18,761 INFO [cn.mldn.test.TestResource] - 	xmlns:tx="http://www.springframework.org/schema/tx"
+2019-07-12 00:13:18,761 INFO [cn.mldn.test.TestResource] - 	xsi:schemaLocation="http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.1.xsd
+2019-07-12 00:13:18,761 INFO [cn.mldn.test.TestResource] - 		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd
+2019-07-12 00:13:18,761 INFO [cn.mldn.test.TestResource] - 		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.1.xsd
+2019-07-12 00:13:18,762 INFO [cn.mldn.test.TestResource] - 		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.1.xsd
+2019-07-12 00:13:18,762 INFO [cn.mldn.test.TestResource] - 		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.1.xsd">
+2019-07-12 00:13:18,762 INFO [cn.mldn.test.TestResource] - 
+2019-07-12 00:13:18,762 INFO [cn.mldn.test.TestResource] - 	<!-- 对象的创建和属性注入-->
+2019-07-12 00:13:18,762 INFO [cn.mldn.test.TestResource] - 	
+2019-07-12 00:13:18,762 INFO [cn.mldn.test.TestResource] - 	<!-- 简易的对象创建 -->
+2019-07-12 00:13:18,763 INFO [cn.mldn.test.TestResource] - 	<bean id="msg" class="cn.mldn.service.impl.MessageServiceImpl"></bean>
+2019-07-12 00:13:18,763 INFO [cn.mldn.test.TestResource] - 	<!-- （不常用）构造方法注入属性值，不需要getters和seters方法，此时类中需要有初始化属性的构造方法 -->
+2019-07-12 00:13:18,763 INFO [cn.mldn.test.TestResource] - 	<bean id="testBean" class="cn.mldn.vo.TestBean">
+2019-07-12 00:13:18,763 INFO [cn.mldn.test.TestResource] - 		<!-- 这里的属性可以用name(写上属性名),也可以用index(构造方法中的第几个参数，下标从0开始) -->
+2019-07-12 00:13:18,763 INFO [cn.mldn.test.TestResource] - 		<constructor-arg name="id" value="123" />
+2019-07-12 00:13:18,763 INFO [cn.mldn.test.TestResource] - 		<constructor-arg index="1" value="hello" />
+2019-07-12 00:13:18,763 INFO [cn.mldn.test.TestResource] - 	</bean>
+2019-07-12 00:13:18,764 INFO [cn.mldn.test.TestResource] - 	<!-- 创建对象，注入属性，此种注入需要类中写上getters和serters方法 -->
+2019-07-12 00:13:18,764 INFO [cn.mldn.test.TestResource] - 	<bean id="dept" class="cn.mldn.vo.Dept">
+2019-07-12 00:13:18,764 INFO [cn.mldn.test.TestResource] - 		<property name="deptno" value="10" />
+2019-07-12 00:13:18,764 INFO [cn.mldn.test.TestResource] - 		<property name="dname" value="开发部" />
+2019-07-12 00:13:18,764 INFO [cn.mldn.test.TestResource] - 		<property name="loc" value="北京" />
+2019-07-12 00:13:18,764 INFO [cn.mldn.test.TestResource] - 	</bean>
+2019-07-12 00:13:18,765 INFO [cn.mldn.test.TestResource] - 	<!-- 创建对象，注入属性，属性中引入其它对象-->
+2019-07-12 00:13:18,765 INFO [cn.mldn.test.TestResource] - 	<bean id="emp" class="cn.mldn.vo.Emp">
+2019-07-12 00:13:18,765 INFO [cn.mldn.test.TestResource] - 		<property name="empno" value="001" />
+2019-07-12 00:13:18,765 INFO [cn.mldn.test.TestResource] - 		<property name="ename" value="张三" />
+2019-07-12 00:13:18,765 INFO [cn.mldn.test.TestResource] - 		<property name="sal" value="800.01" />
+2019-07-12 00:13:18,765 INFO [cn.mldn.test.TestResource] - 		<!-- 用ref引用其它对象，其中的值为spring配置中其它bean的id -->
+2019-07-12 00:13:18,766 INFO [cn.mldn.test.TestResource] - 		<property name="dept" ref="dept" />
+2019-07-12 00:13:18,766 INFO [cn.mldn.test.TestResource] - 	</bean>
+2019-07-12 00:13:18,766 INFO [cn.mldn.test.TestResource] - 	<!-- 用P命名空间，简化对象的创建，（配置文件头不需要带上xmlns:p="http://www.springframework.org/schema/p） -->
+2019-07-12 00:13:18,766 INFO [cn.mldn.test.TestResource] - 	<bean id="emp1" class="cn.mldn.vo.Emp" p:empno="002" p:ename="李四"  p:sal="1000.23" p:dept-ref="dept"></bean>
+2019-07-12 00:13:18,766 INFO [cn.mldn.test.TestResource] - 	<!-- 集合注入 -->
+2019-07-12 00:13:18,767 INFO [cn.mldn.test.TestResource] - 	<bean id="bean01" class="cn.mldn.vo.Bean01">
+2019-07-12 00:13:18,767 INFO [cn.mldn.test.TestResource] - 		<!-- 注入list集合，注入的元素为字符串，list、array、set标签都可以混淆使用，底层集合类型根据类中的声明来决定 -->
+2019-07-12 00:13:18,767 INFO [cn.mldn.test.TestResource] - 		<property name="lis">
+2019-07-12 00:13:18,767 INFO [cn.mldn.test.TestResource] - 			<list>
+2019-07-12 00:13:18,767 INFO [cn.mldn.test.TestResource] - 				<value>list第一个字符串</value>
+2019-07-12 00:13:18,768 INFO [cn.mldn.test.TestResource] - 				<value>list第二个字符串</value>
+2019-07-12 00:13:18,768 INFO [cn.mldn.test.TestResource] - 			</list>
+2019-07-12 00:13:18,768 INFO [cn.mldn.test.TestResource] - 		</property>
+2019-07-12 00:13:18,768 INFO [cn.mldn.test.TestResource] - 		<!-- 注入set集合，也可以使用list、array、set标签 -->
+2019-07-12 00:13:18,768 INFO [cn.mldn.test.TestResource] - 		<property name="sets">
+2019-07-12 00:13:18,768 INFO [cn.mldn.test.TestResource] - 			<set>
+2019-07-12 00:13:18,768 INFO [cn.mldn.test.TestResource] - 				<value>set第一个字符串</value>
+2019-07-12 00:13:18,769 INFO [cn.mldn.test.TestResource] - 				<value>set第二个字符串</value>
+2019-07-12 00:13:18,769 INFO [cn.mldn.test.TestResource] - 			</set>
+2019-07-12 00:13:18,769 INFO [cn.mldn.test.TestResource] - 		</property>
+2019-07-12 00:13:18,769 INFO [cn.mldn.test.TestResource] - 		<!-- 注入list集合，其中的元素为其它对象 -->
+2019-07-12 00:13:18,770 INFO [cn.mldn.test.TestResource] - 		<property name="emps">
+2019-07-12 00:13:18,770 INFO [cn.mldn.test.TestResource] - 			<list>
+2019-07-12 00:13:18,770 INFO [cn.mldn.test.TestResource] - 				<ref bean="emp"/>
+2019-07-12 00:13:18,771 INFO [cn.mldn.test.TestResource] - 				<bean class="cn.mldn.vo.Emp">
+2019-07-12 00:13:18,771 INFO [cn.mldn.test.TestResource] - 					<property name="empno" value="003" />
+2019-07-12 00:13:18,771 INFO [cn.mldn.test.TestResource] - 					<property name="ename" value="张三aa" />
+2019-07-12 00:13:18,771 INFO [cn.mldn.test.TestResource] - 				</bean>
+2019-07-12 00:13:18,771 INFO [cn.mldn.test.TestResource] - 			</list>
+2019-07-12 00:13:18,771 INFO [cn.mldn.test.TestResource] - 		</property>
+2019-07-12 00:13:18,772 INFO [cn.mldn.test.TestResource] - 		<!-- 注入map集合 -->
+2019-07-12 00:13:18,772 INFO [cn.mldn.test.TestResource] - 		<property name="maps">
+2019-07-12 00:13:18,772 INFO [cn.mldn.test.TestResource] - 			<map>
+2019-07-12 00:13:18,772 INFO [cn.mldn.test.TestResource] - 				<entry key="第一个map">
+2019-07-12 00:13:18,772 INFO [cn.mldn.test.TestResource] - 					<ref bean="emp"/>
+2019-07-12 00:13:18,772 INFO [cn.mldn.test.TestResource] - 				</entry>
+2019-07-12 00:13:18,773 INFO [cn.mldn.test.TestResource] - 				<entry key="第二个map">
+2019-07-12 00:13:18,773 INFO [cn.mldn.test.TestResource] - 					<ref bean="emp1"/>
+2019-07-12 00:13:18,773 INFO [cn.mldn.test.TestResource] - 				</entry>
+2019-07-12 00:13:18,773 INFO [cn.mldn.test.TestResource] - 			</map>
+2019-07-12 00:13:18,773 INFO [cn.mldn.test.TestResource] - 		</property>
+2019-07-12 00:13:18,773 INFO [cn.mldn.test.TestResource] - 		<!-- 注入Properties类型对象 -->
+2019-07-12 00:13:18,773 INFO [cn.mldn.test.TestResource] - 		<property name="props">
+2019-07-12 00:13:18,773 INFO [cn.mldn.test.TestResource] - 			<props>
+2019-07-12 00:13:18,773 INFO [cn.mldn.test.TestResource] - 				<prop key="110">你好</prop>
+2019-07-12 00:13:18,774 INFO [cn.mldn.test.TestResource] - 				<prop key="120">世界</prop>
+2019-07-12 00:13:18,774 INFO [cn.mldn.test.TestResource] - 			</props>
+2019-07-12 00:13:18,774 INFO [cn.mldn.test.TestResource] - 		</property>
+2019-07-12 00:13:18,774 INFO [cn.mldn.test.TestResource] - 	</bean>
+2019-07-12 00:13:18,774 INFO [cn.mldn.test.TestResource] - 	
+2019-07-12 00:13:18,774 INFO [cn.mldn.test.TestResource] - 	<!-- 注解（Annotation）配置 -->
+2019-07-12 00:13:18,774 INFO [cn.mldn.test.TestResource] - 	
+2019-07-12 00:13:18,774 INFO [cn.mldn.test.TestResource] - 	<!-- 需要在配置文件头上带上上下文
+2019-07-12 00:13:18,774 INFO [cn.mldn.test.TestResource] - 		xmlns:context="http://www.springframework.org/schema/context"
+2019-07-12 00:13:18,775 INFO [cn.mldn.test.TestResource] - 		http://www.springframework.org/schema/context 
+2019-07-12 00:13:18,775 INFO [cn.mldn.test.TestResource] - 		http://www.springframework.org/schema/context/spring-context-4.1.xsd
+2019-07-12 00:13:18,775 INFO [cn.mldn.test.TestResource] - 	 -->
+2019-07-12 00:13:18,775 INFO [cn.mldn.test.TestResource] - 	<context:annotation-config />
+2019-07-12 00:13:18,775 INFO [cn.mldn.test.TestResource] - 	<!-- 配置注解的扫描包，要配置多个包可以用逗号隔开 -->
+2019-07-12 00:13:18,775 INFO [cn.mldn.test.TestResource] - 	<context:component-scan base-package="cn.mldn,cn.test"></context:component-scan>
+2019-07-12 00:13:18,775 INFO [cn.mldn.test.TestResource] - 	
+2019-07-12 00:13:18,776 INFO [cn.mldn.test.TestResource] - </beans> 
+2019-07-12 00:18:24,228 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:18:24 CST 2019]; root of context hierarchy
+2019-07-12 00:18:24,304 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:18:24,684 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:19:20,499 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:19:20 CST 2019]; root of context hierarchy
+2019-07-12 00:19:20,572 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:19:20,940 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:19:42,357 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:19:42 CST 2019]; root of context hierarchy
+2019-07-12 00:19:42,433 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:19:42,794 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:25:09,074 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:25:09 CST 2019]; root of context hierarchy
+2019-07-12 00:25:09,155 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:25:09,520 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:25:48,280 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:25:48 CST 2019]; root of context hierarchy
+2019-07-12 00:25:48,376 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:25:48,791 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:29:01,875 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:29:01 CST 2019]; root of context hierarchy
+2019-07-12 00:29:01,953 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:29:02,329 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:29:36,965 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:29:36 CST 2019]; root of context hierarchy
+2019-07-12 00:29:37,037 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:29:37,401 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:29:46,004 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:29:45 CST 2019]; root of context hierarchy
+2019-07-12 00:29:46,080 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:29:46,444 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:29:59,922 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:29:59 CST 2019]; root of context hierarchy
+2019-07-12 00:30:00,002 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:30:00,371 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:46:28,887 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:46:28 CST 2019]; root of context hierarchy
+2019-07-12 00:46:28,967 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:46:29,349 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:47:17,354 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:47:17 CST 2019]; root of context hierarchy
+2019-07-12 00:47:17,450 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:47:17,831 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-12 00:47:17,949 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'resourceUtil' defined in class path resource [applicationContext.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'resource' of bean class [cn.mldn.util.ResourceUtil]: Bean property 'resource' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+2019-07-12 00:47:47,203 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Fri Jul 12 00:47:47 CST 2019]; root of context hierarchy
+2019-07-12 00:47:47,277 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-12 00:47:47,663 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 01:10:15,819 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 01:10:15 CST 2019]; root of context hierarchy
+2019-07-14 01:10:15,992 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 01:10:17,100 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 01:10:17,886 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 01:10:17,886 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 01:10:17,886 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 01:48:52,424 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 01:48:52 CST 2019]; root of context hierarchy
+2019-07-14 01:48:52,523 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 01:48:53,016 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 01:48:53,460 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 01:48:53,461 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 01:48:53,461 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 14:41:38,844 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 14:41:38 CST 2019]; root of context hierarchy
+2019-07-14 14:41:38,955 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 14:41:39,102 WARN [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Ignored XML validation warning
+org.xml.sax.SAXParseException; lineNumber: 14; columnNumber: 74; SchemaLocation: schemaLocation 值 '   http://www.springframework.org/schema/aop/spring-aop-4.1.xsd   http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd   http://www.springframework.org/schema/beans/spring-beans-4.1.xsd   http://www.springframework.org/schema/tx/spring-tx-4.1.xsd   http://www.springframework.org/schema/context/spring-context-4.1.xsd' 必须具有偶数个 URI。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:392)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator$XSIErrorReporter.reportError(XMLSchemaValidator.java:453)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.storeLocations(XMLSchemaValidator.java:2348)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1755)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.startElement(XMLSchemaValidator.java:741)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:374)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl$NSContentDriver.scanRootElementHook(XMLNSDocumentScannerImpl.java:613)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3132)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:852)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:76)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadDocument(XmlBeanDefinitionReader.java:429)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:391)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:336)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:304)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:181)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:217)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:188)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:252)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:129)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:612)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:513)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at cn.mldn.test.TestAOP.<clinit>(TestAOP.java:14)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2019-07-14 14:42:43,783 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 14:42:43 CST 2019]; root of context hierarchy
+2019-07-14 14:42:43,853 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 14:42:43,919 WARN [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Ignored XML validation warning
+org.xml.sax.SAXParseException; lineNumber: 14; columnNumber: 74; SchemaLocation: schemaLocation 值 '   http://www.springframework.org/schema/aop/spring-aop-4.1.xsd   http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd   http://www.springframework.org/schema/beans/spring-beans-4.1.xsd   http://www.springframework.org/schema/tx/spring-tx-4.1.xsd   http://www.springframework.org/schema/context/spring-context-4.1.xsd' 必须具有偶数个 URI。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:392)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator$XSIErrorReporter.reportError(XMLSchemaValidator.java:453)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.storeLocations(XMLSchemaValidator.java:2348)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1755)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.startElement(XMLSchemaValidator.java:741)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:374)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl$NSContentDriver.scanRootElementHook(XMLNSDocumentScannerImpl.java:613)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3132)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:852)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:76)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadDocument(XmlBeanDefinitionReader.java:429)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:391)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:336)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:304)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:181)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:217)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:188)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:252)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:129)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:612)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:513)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at cn.mldn.test.TestAOP.<clinit>(TestAOP.java:14)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2019-07-14 14:44:17,453 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 14:44:17 CST 2019]; root of context hierarchy
+2019-07-14 14:44:17,596 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 14:44:18,055 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 14:44:18,379 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'msg' defined in class path resource [applicationContext.xml]: BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#2': Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.aop.aspectj.AspectJPointcutAdvisor]: Constructor threw exception; nested exception is java.lang.IllegalArgumentException: warning no match for this type name: id [Xlint:invalidAbsoluteTypeName]
+2019-07-14 15:28:09,626 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 15:28:09 CST 2019]; root of context hierarchy
+2019-07-14 15:28:09,739 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 15:28:10,172 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 15:28:10,447 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'msg' defined in class path resource [applicationContext.xml]: BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0': Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.aop.aspectj.AspectJPointcutAdvisor]: Constructor threw exception; nested exception is java.lang.IllegalArgumentException: warning no match for this type name: id [Xlint:invalidAbsoluteTypeName]
+2019-07-14 15:30:47,015 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 15:30:47 CST 2019]; root of context hierarchy
+2019-07-14 15:30:47,099 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 15:30:47,544 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 15:30:48,060 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 15:30:48,060 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 15:30:48,061 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 15:32:15,594 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 15:32:15 CST 2019]; root of context hierarchy
+2019-07-14 15:32:15,664 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 15:32:16,211 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 15:32:16,742 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 15:32:16,747 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用，参数o=123
+2019-07-14 15:32:16,748 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 15:32:16,748 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 15:32:16,748 INFO [cn.mldn.test.TestAOP] - false
+2019-07-14 15:39:17,338 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 15:39:17 CST 2019]; root of context hierarchy
+2019-07-14 15:39:17,411 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 15:39:17,831 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 15:39:18,372 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 15:39:18,377 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=123
+2019-07-14 15:39:18,377 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 15:39:18,378 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeParameter方法，在切面方法执行后调用,返回值=false
+2019-07-14 15:39:18,378 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 15:39:18,378 INFO [cn.mldn.test.TestAOP] - false
+2019-07-14 15:45:18,304 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 15:45:18 CST 2019]; root of context hierarchy
+2019-07-14 15:45:18,381 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 15:45:18,802 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 15:45:19,333 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 15:45:19,340 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=123
+2019-07-14 15:45:19,340 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 15:45:19,340 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=false
+2019-07-14 15:45:19,340 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 15:45:19,341 INFO [cn.mldn.test.TestAOP] - false
+2019-07-14 15:49:34,568 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 15:49:34 CST 2019]; root of context hierarchy
+2019-07-14 15:49:34,642 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 15:49:35,062 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 15:49:35,599 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 15:49:35,606 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=123
+2019-07-14 15:49:35,607 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 15:49:35,607 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 15:49:35,607 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeThrowing方法，在切面方法执行后调用,返回异常=java.lang.Exception: 自定义的异常
+2019-07-14 15:52:40,592 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 15:52:40 CST 2019]; root of context hierarchy
+2019-07-14 15:52:40,651 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 15:52:41,055 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 15:52:41,566 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 15:52:41,571 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=123
+2019-07-14 15:52:41,572 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 15:52:41,572 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=false
+2019-07-14 15:52:41,572 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 15:52:41,572 INFO [cn.mldn.test.TestAOP] - false
+2019-07-14 15:53:25,254 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 15:53:25 CST 2019]; root of context hierarchy
+2019-07-14 15:53:25,326 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 15:53:25,741 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 15:53:26,280 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 15:53:26,286 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=123
+2019-07-14 15:53:26,286 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 15:53:26,287 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=false
+2019-07-14 15:53:26,287 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 15:53:26,287 INFO [cn.mldn.test.TestAOP] - false
+2019-07-14 15:55:50,944 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 15:55:50 CST 2019]; root of context hierarchy
+2019-07-14 15:55:51,015 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 15:55:51,416 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 15:55:51,932 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 15:55:51,938 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=123
+2019-07-14 15:55:51,939 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 15:55:51,939 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeThrowing方法，在切面方法执行后调用,返回异常=java.lang.RuntimeException: 抛出一个异常
+2019-07-14 16:15:14,305 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 16:15:14 CST 2019]; root of context hierarchy
+2019-07-14 16:15:14,394 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 16:15:14,826 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 16:15:15,391 INFO [cn.mldn.service.proxy.ServiceProxy] - [123]
+2019-07-14 16:15:15,392 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 16:15:15,397 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=自己定义的参数
+2019-07-14 16:15:15,398 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用
+2019-07-14 16:15:15,398 INFO [cn.mldn.service.proxy.ServiceProxy] - false
+2019-07-14 16:15:15,398 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-14 16:15:15,398 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 16:15:15,398 INFO [cn.mldn.test.TestAOP] - true
+2019-07-14 16:16:39,645 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 16:16:39 CST 2019]; root of context hierarchy
+2019-07-14 16:16:39,719 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 16:16:40,151 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 16:16:40,695 INFO [cn.mldn.service.proxy.ServiceProxy] - [123]
+2019-07-14 16:16:40,695 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 16:16:40,701 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=自己定义的参数
+2019-07-14 16:16:40,701 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用，mid=自己定义的参数
+2019-07-14 16:16:40,701 INFO [cn.mldn.service.proxy.ServiceProxy] - false
+2019-07-14 16:16:40,701 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-14 16:16:40,701 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 16:16:40,702 INFO [cn.mldn.test.TestAOP] - true
+2019-07-14 16:19:18,466 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 16:19:18 CST 2019]; root of context hierarchy
+2019-07-14 16:19:18,542 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 16:19:18,953 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 16:19:19,492 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke接收到的参数=[123]
+2019-07-14 16:19:19,493 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 16:19:19,498 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-14 16:19:19,498 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用，mid=arroundInvoke自己定义的参数
+2019-07-14 16:19:19,498 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke返回的结果=false
+2019-07-14 16:19:19,499 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-14 16:19:19,499 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 16:19:19,499 INFO [cn.mldn.test.TestAOP] - true
+2019-07-14 16:22:40,528 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 16:22:40 CST 2019]; root of context hierarchy
+2019-07-14 16:22:40,590 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 16:22:41,006 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 16:22:41,586 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke接收到的参数=[123]
+2019-07-14 16:22:41,586 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 16:22:41,591 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-14 16:22:41,592 INFO [cn.mldn.service.impl.AOPServiceImpl] - 业务层add方法调用，mid=arroundInvoke自己定义的参数
+2019-07-14 16:22:41,592 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke返回的结果=false
+2019-07-14 16:22:41,592 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=false
+2019-07-14 16:22:41,592 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 16:22:41,592 INFO [cn.mldn.test.TestAOP] - false
+2019-07-14 16:51:09,149 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 16:51:09 CST 2019]; root of context hierarchy
+2019-07-14 16:51:09,228 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 16:51:09,649 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 16:51:10,443 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke接收到的参数=[123]
+2019-07-14 16:51:10,444 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 16:51:10,449 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-14 16:51:10,449 INFO [cn.mldn.service.impl.AnnotationAOPServiceImpl] - 业务调用，mid=arroundInvoke自己定义的参数
+2019-07-14 16:51:10,449 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke返回的结果=false
+2019-07-14 16:51:10,450 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-14 16:51:10,450 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 16:53:23,269 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 16:53:23 CST 2019]; root of context hierarchy
+2019-07-14 16:53:23,356 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 16:53:23,738 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 16:53:23,880 INFO [cn.mldn.service.impl.AnnotationAOPServiceImpl] - 业务调用，mid=123
+2019-07-14 16:56:04,946 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 16:56:04 CST 2019]; root of context hierarchy
+2019-07-14 16:56:05,023 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 16:56:05,438 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 16:56:06,041 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke接收到的参数=[123]
+2019-07-14 16:56:06,041 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 16:56:06,046 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-14 16:56:06,046 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 16:56:06,046 INFO [cn.mldn.service.impl.AnnotationAOPServiceImpl] - 业务调用，mid=arroundInvoke自己定义的参数
+2019-07-14 16:56:06,047 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke返回的结果=false
+2019-07-14 16:56:06,047 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-14 16:56:06,047 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 16:57:36,574 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 16:57:36 CST 2019]; root of context hierarchy
+2019-07-14 16:57:36,643 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 16:57:37,057 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 16:57:37,678 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke接收到的参数=[123]
+2019-07-14 16:57:37,678 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 16:57:37,686 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-14 16:57:37,686 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 16:57:37,686 INFO [cn.mldn.service.impl.AnnotationAOPServiceImpl] - 业务调用，mid=arroundInvoke自己定义的参数
+2019-07-14 16:57:37,686 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 16:57:37,686 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke返回的结果=false
+2019-07-14 16:57:37,687 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-14 16:57:37,687 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 17:01:29,301 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 17:01:29 CST 2019]; root of context hierarchy
+2019-07-14 17:01:29,380 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 17:01:29,829 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 17:01:30,493 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke接收到的参数=[123]
+2019-07-14 17:01:30,493 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 17:01:30,501 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-14 17:01:30,501 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 17:01:30,502 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-14 17:01:30,502 INFO [cn.mldn.service.impl.AnnotationAOPServiceImpl] - 业务调用，mid=arroundInvoke自己定义的参数
+2019-07-14 17:01:30,502 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 17:01:30,503 INFO [cn.mldn.service.proxy.ServiceProxy] - arroundInvoke返回的结果=false
+2019-07-14 17:01:30,503 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true
+2019-07-14 17:01:30,503 INFO [cn.mldn.service.proxy.ServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 17:02:29,080 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 17:02:29 CST 2019]; root of context hierarchy
+2019-07-14 17:02:29,150 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 17:02:29,584 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 17:02:30,172 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 17:02:30,178 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=123
+2019-07-14 17:02:30,179 INFO [cn.mldn.service.impl.AnnotationAOPServiceImpl] - 业务调用，mid=123
+2019-07-14 17:02:30,179 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 17:08:25,308 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c39f790: startup date [Sun Jul 14 17:08:25 CST 2019]; root of context hierarchy
+2019-07-14 17:08:25,389 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-07-14 17:08:25,802 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-07-14 17:08:26,444 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - arroundInvoke接收到的参数=[123]
+2019-07-14 17:08:26,444 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvoke方法，在切面方法执行前调用
+2019-07-14 17:08:26,452 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的beforeInvokeParameter方法，在切面方法执行前调用，参数o=arroundInvoke自己定义的参数
+2019-07-14 17:08:26,452 INFO [cn.mldn.service.impl.AnnotationAOPServiceImpl] - 业务调用，mid=arroundInvoke自己定义的参数
+2019-07-14 17:08:26,452 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - arroundInvoke返回的结果=false
+2019-07-14 17:08:26,452 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvoke方法，在切面方法执行后调用
+2019-07-14 17:08:26,452 INFO [cn.mldn.service.proxy.AnnotationServiceProxy] - 自定义的afterInvokeReturning方法，在切面方法执行后调用,返回值=true

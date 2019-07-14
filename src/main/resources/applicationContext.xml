@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.1.xsd
+		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.1.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.1.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.1.xsd">
+	
+	<!-- 对象的创建和属性注入-->
+	
+	<!-- 简易的对象创建 -->
+	<bean id="msg" class="cn.mldn.service.impl.MessageServiceImpl"></bean>
+	<!-- （不常用）构造方法注入属性值，不需要getters和seters方法，此时类中需要有初始化属性的构造方法 -->
+	<bean id="testBean" class="cn.mldn.vo.TestBean">
+		<!-- 这里的属性可以用name(写上属性名),也可以用index(构造方法中的第几个参数，下标从0开始) -->
+		<constructor-arg name="id" value="123" />
+		<constructor-arg index="1" value="hello" />
+	</bean>
+	<!-- 创建对象，注入属性，此种注入需要类中写上getters和serters方法 -->
+	<bean id="dept" class="cn.mldn.vo.Dept">
+		<property name="deptno" value="10" />
+		<property name="dname" value="开发部" />
+		<property name="loc" value="北京" />
+	</bean>
+	<!-- 创建对象，注入属性，属性中引入其它对象-->
+	<bean id="emp" class="cn.mldn.vo.Emp">
+		<property name="empno" value="001" />
+		<property name="ename" value="张三" />
+		<property name="sal" value="800.01" />
+		<!-- 用ref引用其它对象，其中的值为spring配置中其它bean的id -->
+		<property name="dept" ref="dept" />
+	</bean>
+	<!-- 用P命名空间，简化对象的创建，（配置文件头不需要带上xmlns:p="http://www.springframework.org/schema/p） -->
+	<bean id="emp1" class="cn.mldn.vo.Emp" p:empno="002" p:ename="李四"  p:sal="1000.23" p:dept-ref="dept"></bean>
+	<!-- 集合注入 -->
+	<bean id="bean01" class="cn.mldn.vo.Bean01">
+		<!-- 注入list集合，注入的元素为字符串，list、array、set标签都可以混淆使用，底层集合类型根据类中的声明来决定 -->
+		<property name="lis">
+			<list>
+				<value>list第一个字符串</value>
+				<value>list第二个字符串</value>
+			</list>
+		</property>
+		<!-- 注入set集合，也可以使用list、array、set标签 -->
+		<property name="sets">
+			<set>
+				<value>set第一个字符串</value>
+				<value>set第二个字符串</value>
+			</set>
+		</property>
+		<!-- 注入list集合，其中的元素为其它对象 -->
+		<property name="emps">
+			<list>
+				<ref bean="emp"/>
+				<bean class="cn.mldn.vo.Emp">
+					<property name="empno" value="003" />
+					<property name="ename" value="张三aa" />
+				</bean>
+			</list>
+		</property>
+		<!-- 注入map集合 -->
+		<property name="maps">
+			<map>
+				<entry key="第一个map">
+					<ref bean="emp"/>
+				</entry>
+				<entry key="第二个map">
+					<ref bean="emp1"/>
+				</entry>
+			</map>
+		</property>
+		<!-- 注入Properties类型对象 -->
+		<property name="props">
+			<props>
+				<prop key="110">你好</prop>
+				<prop key="120">世界</prop>
+			</props>
+		</property>
+	</bean>
+	
+	<!-- 注解（Annotation）配置 -->
+	
+	<!-- 需要在配置文件头上带上上下文
+		xmlns:context="http://www.springframework.org/schema/context"
+		http://www.springframework.org/schema/context 
+		http://www.springframework.org/schema/context/spring-context-4.1.xsd
+	 -->
+	
+	<context:annotation-config />
+	<!-- 配置注解的扫描包，要配置多个包可以用逗号隔开 -->
+	<context:component-scan base-package="cn.mldn,cn.test"></context:component-scan>
+	
+	<!-- 资源读取配置 -->
+	
+	<!-- 其中的resource可以根据value值实例化不同的resource子类对象；文件资源（字符串以file:开头）、ClassPath路径下的资源文件（字符串以classpath:开头）、URL返回的资源（字符串以http://开头） -->
+	<bean id="resourceUtil" class="cn.mldn.util.ResourceUtil">
+		<property name="resource" value="file:E:\test.txt" />
+	</bean>
+	
+	<!-- aop配置 -->
+	
+	<!-- 定义aop注解配置 -->
+	<aop:aspectj-autoproxy />
+	
+	<!-- 定义测试bean -->
+	<bean id="aOPServiceImpl" class="cn.mldn.service.impl.AOPServiceImpl"></bean>
+	<!-- 定义切面方法bean -->
+	<bean id="serviceProxy" class="cn.mldn.service.proxy.ServiceProxy"></bean>
+	<aop:config>
+		<!-- 定义业务操作的切入点 -->
+		<!-- 
+			aspectJ表达式
+			public * cn.mldn.service..*.*(..)
+			public:方法访问修饰符，可以省略
+			*:返回值
+			cn.mldn.service：包名
+			..：任意个子包
+			*.*:任意类名的任意方法
+			..:任意参数
+		 -->
+		<aop:pointcut expression="execution(* cn.mldn.service..*.*(..))" id="defaultPointCut"/>
+		<!-- 定义方面(代理的方法) -->
+		<!-- 基本配置 -->
+		<aop:aspect ref="serviceProxy">
+			<!-- 在切面方法执行前调用method方法 -->
+			<aop:before method="beforeInvoke" pointcut-ref="defaultPointCut"></aop:before>
+			<!-- 在切面方法执行后调用method方法 -->
+			<aop:after method="afterInvoke" pointcut-ref="defaultPointCut"></aop:after>
+		</aop:aspect>
+		<!-- 深入配置 -->
+		<aop:aspect ref="serviceProxy">
+			<!-- 方法执行前传递参数 -->
+			<aop:before method="beforeInvokeParameter" arg-names="id" pointcut="execution(* cn.mldn.service..*.*(..)) and args(id)"></aop:before>
+			<!-- 方法执行后传递返回值 -->
+			<aop:after-returning method="afterInvokeReturning" arg-names="v" returning="v" pointcut-ref="defaultPointCut"/>
+			<!-- 方法执行后传递异常 -->
+			<aop:after-throwing method="afterInvokeThrowing" arg-names="e" throwing="e" pointcut-ref="defaultPointCut"/>
+		</aop:aspect>
+		<!-- 环绕通知配置，可以接收修改传递参数、返回值 -->
+		<aop:aspect ref="serviceProxy">
+			<aop:around method="arroundInvoke" pointcut-ref="defaultPointCut"/>
+		</aop:aspect>
+	</aop:config>
+</beans> 
